@@ -66,4 +66,21 @@ namespace ExamenGit
             }
         }
     }
+    public class Geometry
+    {
+        public static decimal TraingleArea(decimal side, decimal height)
+        {
+            return 1 / 2 * side * height;
+        }
+
+        public static decimal SquareArea(decimal side)
+        {
+            return side*side;
+        }
+        public static decimal RectungleArea(decimal sideA, decimal sideB)
+        {
+            return sideA * sideB;
+        }
+
+    }
 }
