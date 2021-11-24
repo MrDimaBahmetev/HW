@@ -1,0 +1,14 @@
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\bin\Debug\netcoreapp3.1\ExamenGit.exe
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\bin\Debug\netcoreapp3.1\ExamenGit.deps.json
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\bin\Debug\netcoreapp3.1\ExamenGit.runtimeconfig.json
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\bin\Debug\netcoreapp3.1\ExamenGit.runtimeconfig.dev.json
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\bin\Debug\netcoreapp3.1\ExamenGit.dll
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\bin\Debug\netcoreapp3.1\ExamenGit.pdb
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\obj\Debug\netcoreapp3.1\ExamenGit.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\obj\Debug\netcoreapp3.1\ExamenGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\obj\Debug\netcoreapp3.1\ExamenGit.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\obj\Debug\netcoreapp3.1\ExamenGit.AssemblyInfo.cs
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\obj\Debug\netcoreapp3.1\ExamenGit.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\obj\Debug\netcoreapp3.1\ExamenGit.dll
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\obj\Debug\netcoreapp3.1\ExamenGit.pdb
+C:\Users\Дима\source\repos\ExamenGit\ExamenGit\obj\Debug\netcoreapp3.1\ExamenGit.genruntimeconfig.cache

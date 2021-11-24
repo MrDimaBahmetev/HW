@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s6fz2Vgu8JUtohO/1x/9x1U2naHVnN8+F3s6ac4bgCYEvHXxuxI1d3OIQXCLlWyfeNR4BRdVzzyzMKKcunymNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дима\\source\\repos\\ExamenGit\\ExamenGit\\ExamenGit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дима\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
